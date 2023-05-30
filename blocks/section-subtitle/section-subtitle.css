@@ -1,5 +1,6 @@
 .section-subtitle {
     margin: 0 auto 0 auto;
+    max-width: 920px;
     width: 60%;
     text-align: center;
     line-height: 34px;
